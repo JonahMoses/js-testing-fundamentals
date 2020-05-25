@@ -1,6 +1,9 @@
 <h1 align="center">
   JavaScript Testing Fundamentals
 </h1>
+<h3 align="center">
+  by Jonah
+</h3>
 
 <p align="center" style="font-size: 1.2rem;">
   Learn how automated JavaScript testing works by building your own framework!
